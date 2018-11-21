@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/23/user/291921).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгения Миронова] (https://htmlacademy.ru/profile/glandea).
 
 ---
 
